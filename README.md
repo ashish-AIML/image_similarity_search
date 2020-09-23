@@ -48,6 +48,6 @@ round(disparity)
 ---
 ## License & Copyright
 
-@ Teric-AI Team
+@ Ashish & Team
 
 ***
